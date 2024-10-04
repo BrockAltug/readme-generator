@@ -12,6 +12,12 @@ A command-line application designed to help developers quickly and easily genera
 - [Usage](#usage)
 - [Summary](#summary)
 
+## Demo Video
+
+![Demo](./images/Demo.gif)
+
+## Step by Step Screenshot Walkthrough
+
 ![Console SS](./images/1.png)
 ![README SS 1](./images/2.png)
 ![README SS 2](./images/3.png)
