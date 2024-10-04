@@ -9,6 +9,7 @@ A command-line application designed to help developers quickly and easily genera
 - [Technologies Used](#technologies-used)
 - [Concepts Covered](#concepts-covered)
 - [Learning Objectives](#learning-objectives)
+- [Usage](#usage)
 - [Summary](#summary)
 
 ![Console SS](./images/1.png)
@@ -50,6 +51,26 @@ The README Generator is a command-line tool that simplifies the creation of prof
 2. Understand how to use Inquirer to prompt users for input and handle responses.
 3. Explore how to dynamically generate markdown content using template literals.
 4. Gain experience in using the Node.js File System (`fs`) module to write data to files.
+
+## Usage
+
+1. **Clone the repository**:
+   `git clone https://github.com/BrockAltug/readme-generator.git`
+
+2. **Install dependencies**:
+   Navigate into the project directory and install the required dependencies:
+   `cd readme-generator`  
+   `npm install`
+
+3. **Run the application**:
+   Start the README generator by running the following command:
+   `node index.js`
+
+4. **Answer the prompts**:
+   Provide the requested information about your project, such as the project title, description, installation instructions, and more.
+
+5. **View the generated README**:
+   After answering all the prompts, a `README.md` file will be generated in the project folder, containing all the details you provided.
 
 ## Summary
 
