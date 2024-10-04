@@ -9,7 +9,6 @@ A command-line application designed to help developers quickly and easily genera
 - [Technologies Used](#technologies-used)
 - [Concepts Covered](#concepts-covered)
 - [Learning Objectives](#learning-objectives)
-- [Future Improvements](#future-improvements)
 - [Summary](#summary)
 
 ![Console SS](./images/1.png)
@@ -51,14 +50,6 @@ The README Generator is a command-line tool that simplifies the creation of prof
 2. Understand how to use Inquirer to prompt users for input and handle responses.
 3. Explore how to dynamically generate markdown content using template literals.
 4. Gain experience in using the Node.js File System (`fs`) module to write data to files.
-
-## Future Improvements
-
-- **Template Customization**: Allow users to customize the layout and sections of the README beyond the default template.
-- **Multiple License Support**: Provide users with the ability to select multiple licenses for their project.
-- **Improved Formatting**: Add more advanced markdown formatting options like tables and code blocks.
-- **Interactive UI**: Create a more user-friendly, interactive user interface for generating READMEs.
-- **Readme Preview**: Provide a live preview of the generated README before saving it.
 
 ## Summary
 
